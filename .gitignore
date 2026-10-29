@@ -1,0 +1,9 @@
+﻿# Windows shortcuts & system files
+*.lnk
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Office temporary files
+~$*
+*.tmp
